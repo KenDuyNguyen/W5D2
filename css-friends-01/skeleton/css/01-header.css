@@ -1,0 +1,27 @@
+/* PHASE 1: Header */
+
+body {
+  font-weight: inherit;
+  font-family: inherit;
+  font-size: inherit;
+}  
+
+.header {
+  display: flex;
+  padding: 10px;
+  background-color: red;
+}
+
+.header_nav {
+  display: flex;
+  justify-content: space-between;
+  float: right;
+}
+
+.header_logo {
+  
+}
+
+.header_list {
+  
+}
